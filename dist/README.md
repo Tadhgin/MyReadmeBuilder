@@ -1,16 +1,16 @@
 
-<h1 align="center">README Generator </h1>
+<h1 align="center">README builder </h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-Automatic README generator to save time on README file creation
+A cmd line app to easily build a README with prompts
 
 ## Installation
-Based on Inquirer - nodeJS
+Using nodeJS Inquirer
 
 ## Usage
-Used for any project that needs a quick README file created when you can't easily remember the necessary info to include
+Used for writing a README where you don't need to remember all the info to include
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
