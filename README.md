@@ -28,7 +28,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Mock Up
 The following image shows the app output appearance and functionality:
-
+![image](https://user-images.githubusercontent.com/117637052/216944148-86403110-8ae1-4572-9310-36caef3bac02.png)
 
 ## Walkthrough
 Please follow the link to watch the walkthrough 
